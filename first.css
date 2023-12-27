@@ -1,0 +1,17 @@
+.box{
+    height: 200px;
+    width: 50%;
+    background-color: blue;
+    text-align: center;
+    padding: 20px 30px 50px 20px ;
+}
+.red{
+    background-color: red;
+    position: absolute;
+    top: 5.5cm;
+    left: 7cm;
+    box-sizing: border-box;
+    border-radius: 50%;
+    height: 100px;
+    width: 12%;
+}
